@@ -20,3 +20,4 @@ Beware of couple rules:
 
 1. do not change schemas, migrations nor the records in the dbs;
 2. **do not fork this repo - clone it instead**.
+# webstore_microservices
